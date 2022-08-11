@@ -1,4 +1,4 @@
-## CloudMatos 🌈
+## :cloud: CloudMatos
 
 <!--
 
